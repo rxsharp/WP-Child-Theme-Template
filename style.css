@@ -1,0 +1,20 @@
+/*
+ Theme Name:   WP Child Theme Template
+ Theme URI:    http://learn.busancoders.com
+ Description:  This is a Wordpress child theme template
+ Author:       BC Team
+ Author URI:   http://busancoders.com
+ Template:     nameoftemplate
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+/*
+Notes:
+- The Template line corresponds to the directory name of the parent theme.
+- The only required child theme file is style.css, but functions.php is necessary to enqueue styles correctly
+
+Source: https://codex.wordpress.org/Child_Themes
+
+*/
